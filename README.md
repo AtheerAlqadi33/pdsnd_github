@@ -10,7 +10,9 @@ bikeshare project for rise
 Describe what your project is about and what it does
 
 ### Files used
-Include the files used
+1-chicago
+2-washington
+3-new york
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
