@@ -73,7 +73,11 @@ def load_data(city, month, day):
 
     return df
 
+def atheer():
+print("atheer awad")
 
+def name():
+print("")
 def time_stats(df):
     """Displays statistics on the most frequent times of travel."""
 
